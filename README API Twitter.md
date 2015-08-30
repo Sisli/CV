@@ -1,2 +1,17 @@
 # APITWITTER
-Une utilisation journalistique possible de cette API pourrait être la présentation des dernières actualités durant par exemple un journal radio diffusé ou télévisé. Les renseignements intéressants que cette API pourrait permettre d’obtenir sont : la date et l’heure du dernier tweet, le contenu du texte, le lieu d’émission, la langue utilisée,
+# Utilisation journalistique possible de cette API
+
+Pour la présentation des dernières actualités lors d'un journal radiodiffusé ou télévisé
+
+
+# Renseignements intéressants obtenus
+
+
+1.date et heure dernier tweet
+
+2.contenu texte
+
+3.lieu d’émission
+
+4.langue utilisée
+
